@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sudoku-Puzzle/static/css/main.c10213cf.css",
+    "main.js": "/Sudoku-Puzzle/static/js/main.0c522b1a.js",
+    "static/js/453.87ce8e21.chunk.js": "/Sudoku-Puzzle/static/js/453.87ce8e21.chunk.js",
+    "index.html": "/Sudoku-Puzzle/index.html",
+    "main.c10213cf.css.map": "/Sudoku-Puzzle/static/css/main.c10213cf.css.map",
+    "main.0c522b1a.js.map": "/Sudoku-Puzzle/static/js/main.0c522b1a.js.map",
+    "453.87ce8e21.chunk.js.map": "/Sudoku-Puzzle/static/js/453.87ce8e21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10213cf.css",
+    "static/js/main.0c522b1a.js"
+  ]
+}
